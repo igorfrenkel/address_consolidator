@@ -54,4 +54,4 @@ def process(csv_file, addresses)
   end
 end
 
-consolidate(['data/1.csv', 'data/2.csv'])
+consolidate(['data/1.csv', 'data/2.csv', 'data/3.csv'])
